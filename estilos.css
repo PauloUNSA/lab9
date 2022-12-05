@@ -1,0 +1,36 @@
+body { 
+    font: 75% georgia, sans-serif;
+    line-height: 1.88889;
+    color: #555753; 
+    background-color: #b0c4de;
+    margin: 0; 
+    padding: 0;
+  }
+.formulario {
+    padding: 20px;
+}
+.box_form {
+    margin-top: 15px;
+}
+.tittle {
+    color: blue;
+    text-align: center;
+    }
+.sub_tittle {
+    font-size: 16px;
+    font-weight: bold;
+    color:  blueviolet;
+}
+.barrer {
+    border-radius: 40px;
+    width: 400px;
+    padding-left: 10px;
+}
+.box_button {
+    margin-top: 15px;
+    margin-left: 120px;
+}
+.button {
+    width: 70px;
+    background-color: blanchedalmond;
+}
